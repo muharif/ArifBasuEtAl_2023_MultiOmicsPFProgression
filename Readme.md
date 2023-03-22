@@ -1,5 +1,9 @@
 # An integrative multiomics framework for identification of therapeutic targets in pulmonary fibrosis
 
+
+
+[![DOI](https://zenodo.org/badge/617703287.svg)](https://zenodo.org/badge/latestdoi/617703287)
+
 ## Mouse Lung Fibrosis Atlas
 The interactive visualization of this multi-omics project can be found at [Mouse Lung Fibrosis Atlas @ NIAAA, NIH](https://niaaa.nih.gov/mouselungfibrosisatlas)
 
