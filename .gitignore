@@ -1,0 +1,7 @@
+Old/
+Codes_old.ipynb
+.ipynb_checkpoints/
+test/
+*.xlsx
+*.pdf
+Network/ReadyObject/GCN.pkl
