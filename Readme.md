@@ -9,7 +9,7 @@ The interactive visualization of this multi-omics project can be found at [Mouse
 
 
 ## Citation
-Arif M#, Basu A#, Wolf K, Park J, Pommerolle L, Behee M, Cinar R (2023). An integrative multiomics framework for identification of therapeutic targets in pulmonary fibrosis.
+M. Arif#, A. Basu#, K. M. Wolf, J. K. Park, L. Pommerolle, M. Behee, B. R. Gochuico, R. Cinar, An Integrative Multiomics Framework for Identification of Therapeutic Targets in Pulmonary Fibrosis. Adv. Sci. 2023, 2207454. https://doi.org/10.1002/advs.202207454
 
 
 ## Preparation
